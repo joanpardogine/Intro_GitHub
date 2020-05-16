@@ -26,7 +26,7 @@ Respondrem a preguntes com:
 * Desplegueu una pàgina web a les pàgines de GitHub
 * Què construiràs
 
-https://user-images.githubusercontent.com/16547949/69274863-44362880-0ba9-11ea-98f6-b58cfc9eab02.gif
+![imatges](https://user-images.githubusercontent.com/16547949/69274863-44362880-0ba9-11ea-98f6-b58cfc9eab02.gif)
 
 * Repositori font completat [Source repository]https://github.com/githubtraining/github-slideshow-demo/)
 * Presentació de diapositives interactiva desplegada a GitHub Pages. [slideshow](https://githubtraining.github.io/github-slideshow-demo/)
