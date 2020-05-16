@@ -1,5 +1,9 @@
 https://github.com/joanpardogine/github-slideshow/issues/1
 
+[Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+[Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
 Bienvenido a "Introducción a GitHub" de GitHub Learning Lab
 ============================================================
 
