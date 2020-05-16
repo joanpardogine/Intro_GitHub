@@ -1,3 +1,5 @@
+https://github.com/joanpardogine/github-slideshow/issues/1
+
 Bienvenido a "Introducción a GitHub" de GitHub Learning Lab
 ============================================================
 
@@ -21,12 +23,14 @@ GitHub ayuda a las personas a hacer mucho más.
 
 La gente usa GitHub para construir varias de las tecnologías más avanzadas del mundo. Ya sea que estes visualizando datos o construyendo un nuevo juego, hay una comunidad entera y un set de herramientas en GitHub que te puedan llevar al siguiente nivel. Este curso empieza con lo básico pero ¡profundizaremos el resto después!
 
-[What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E9
+[**:tv:** - What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E9)
 
 ------
 
 Explorando un repositorio de GitHub
 -----------------------------------
+
+[**:tv:** - Exploring a Repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
 
 Más características
 El video cubre algunas de las características usadas con mayor frequencia. Aquí hay otras cosas que puedes encontrar en los repositorios de GitHub:
@@ -42,5 +46,7 @@ Archivos especiales
 
 En el video aprendiste sobre un archivo especial llamado README.md. Aquí hay una lista de algunos otros archivos especiales que puedes añadir a tus repositorios:
 
-* CONTRIBUTING.md: El archivo `CONTRIBUTING.md` es usado para describir el proceso para contribuir al repositorio. Un link al archivo CONTRIBUTING.md es mostrado cada vez que alguien crea una nueva propuesta o una solicitud de extracción.
+* CONTRIBUTING.md: El archivo `CONTRIBUTING.md` es usado para describir el proceso para contribuir al repositorio. Un link al archivo `CONTRIBUTING.md` es mostrado cada vez que alguien crea una nueva propuesta o una solicitud de extracción.
 * ISSUE_TEMPLATE.md: El archivo `ISSUE_TEMPLATE.md` lo puedes usar para prellenar el cuerpo de una propuesta. Por ejemplo, si siempres necesitas el mismo tipo de información para reportar errores puedes incluirlo en la plantilla de tu propuesta y cada nueva propuesta será abierta con el texto que has recomendado para empezar.
+
+
