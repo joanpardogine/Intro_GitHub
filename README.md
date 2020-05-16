@@ -1,7 +1,7 @@
 Introducció a GitHub
 ======================
 
-La gent utilitza GitHub per construir algunes de les tecnologies més avançades del món. Tant si esteu visualitzant dades com creant un joc nou, hi ha tota una comunitat i un conjunt d’eines a GitHub que us poden ajudar a fer-ho encara millor.
+> La gent utilitza GitHub per construir algunes de les tecnologies més avançades del món. Tant si esteu visualitzant dades com creant un joc nou, hi ha tota una comunitat i un conjunt d’eines a GitHub que us poden ajudar a fer-ho encara millor.
 
 Ara, amb GitHub Learning Lab, teniu un costat al vostre camí per convertir-vos en un desenvolupador de totes les estrelles.
 
